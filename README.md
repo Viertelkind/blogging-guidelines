@@ -1,4 +1,4 @@
-!(https://github.com/Viertelkind/blogging-guidelines/blob/master/3-Step%20Workflow.jpg)
+![blogging guidelines](https://github.com/Viertelkind/blogging-guidelines/blob/master/3-Step%20Workflow.jpg)
 
 # Blogging Guidelines
 
