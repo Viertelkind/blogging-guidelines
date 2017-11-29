@@ -5,7 +5,7 @@ This repository should help you to improve & facilitate your writing.
 
 # Table of contents:
 
-1. [Get started](../blob/master/get-started)
+1. [Get started](../master/get-started)
 2. How-to
 
 
