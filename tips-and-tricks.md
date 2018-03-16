@@ -8,33 +8,33 @@ You’re busy, so I’ll keep this quick.
 
 Following are the simplest tips to easily — and forever — improve the quality of your writing.
 
-##1. Avoid the use of “We” 
+## 1. Avoid the use of “We” 
 
 Unless it explicitly refers to every single person at BloomReach. “We” aren’t proud of this project, “I” am. “We” don’t build a CMS, “BloomReach” does. “We” didn’t write the guidelines, the content team did. Of course, you can occasionally break this rule, but it helps to guide your general style of writing.
 
-##3. Don't ask questions in headers. 
+## 3. Don't ask questions in headers. 
 
 Answer the question instead.
 
-##4. Delete the word “that.”
+## 4. Delete the word “that.”
 
 At least 90% of the times you use the word “that” can be removed from your writing and it will instantly make your sentence stronger.
 
 Example: “You believe that I’m lying, but I’m not.” becomes “You believe I’m lying, but I’m not.”
 
-##5. Delete the words “I think.”
+## 5. Delete the words “I think.”
 
 It adds nothing. Remove it to strengthen your point.
 
 Example: “I think this is a good sentence.” becomes “This is a good sentence.”
 
-##6. Avoid words that end in “-ing.”
+## 6. Avoid words that end in “-ing.”
 
 In most cases, the “-ing” softens your word and adds no value. Your writing will read better if you avoid it.
 
 Example: “The experiences we’re seeking end up being underwhelming and even disappointing.” becomes “The experiences we seek often underwhelm and disappoint.”
 
-##7. Short sentences. Short paragraphs.
+## 7. Short sentences. Short paragraphs.
 
 Most sentences can be cut in half. Don’t be afraid to have a two or three word sentence.
 
@@ -42,7 +42,7 @@ Keep paragraphs to less than three sentences.
 
 White space is your reader’s friend.
 
-##8. Shrink your opening sentence.
+## 8. Shrink your opening sentence.
 
 Make it compelling, but keep it short and conversational.
 
