@@ -11,7 +11,8 @@ This repository should help you to improve & facilitate your writing.
 # Table of contents
 
 1. [Get started](../master/get-started.md)
-2. How-to
+2. [How-to](../master/how-to.md)
+3. [Tips & Tricks](../master/tips-and-tricks.md)
 
 
 Tips & Ticks:
