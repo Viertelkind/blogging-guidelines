@@ -1,6 +1,6 @@
 # Tips & Tricks 
 
-I'll contiously add more tips & tricks from great authors to help you write better so you don't have think about it. The content strategy at BloomReach evolves and so do all people who contribute their ideas in form of blog posts or any other way.
+I'll contiously add more tips & tricks from great authors to help you write better so you don't have to think about it. The content strategy at BloomReach evolves and so do all people who contribute their ideas in form of blog posts or any other way.
 
 Guidelines are about finding the balance between giving each writer their own identity, making it clear that they shouldn’t “try to do marketing” but just write as themselves, and at the same time create amazing content resources to help other people.
 
