@@ -1,18 +1,18 @@
-# Tips & Tricks 
+# Tips & Tricks
 
 I'll contiously add more tips & tricks from great authors to help you write better so you don't have to think about it. The content strategy at BloomReach evolves and so do all people who contribute their ideas in form of blog posts or any other way.
 
-Guidelines are about finding the balance between giving each writer their own identity, making it clear that they shouldn’t “try to do marketing” but just write as themselves, and at the same time create amazing content resources to help other people.
+Guidelines are about finding the balance between giving each writer their own identity, making it clear that they shouldn’t “try to do marketing” but just write as themselves, and at the same time create amazing content resources to help other people.
 
 You’re busy, so I’ll keep this quick.
 
-Following are the simplest tips to easily — and forever — improve the quality of your writing.
+Following are the simplest tips to easily — and forever — improve the quality of your writing.
 
-## 1. Avoid the use of “We” 
+## 1. Avoid the use of “We”
 
 Unless it explicitly refers to every single person at BloomReach. “We” aren’t proud of this project, “I” am. “We” don’t build a CMS, “BloomReach” does. “We” didn’t write the guidelines, the content team did. Of course, you can occasionally break this rule, but it helps to guide your general style of writing.
 
-## 3. Don't ask questions in headers. 
+## 3. Don't ask questions in headers.
 
 Answer the question instead.
 
@@ -47,3 +47,4 @@ White space is your reader’s friend.
 Make it compelling, but keep it short and conversational.
 
 Example: “This is a post that’s going to help you become a better writer.” becomes “I can help you.”
+
