@@ -19,4 +19,5 @@
   * [Experience](api-reference/experience.md)
   * [Personalization](api-reference/personalization.md)
   * [DXP for Commerce](api-reference/dxp-for-commerce.md)
+* [Customer Documentation](https://bloomreach.gitbook.io/bloomreach-vip/test)
 
